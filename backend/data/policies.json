@@ -1,0 +1,19 @@
+{
+  "borrowing_limits": {
+    "student": 5,
+    "faculty": 10,
+    "public": 3
+  },
+  "renewal_rules": {
+    "default": 14,
+    "max_renewals": 2,
+    "student_max_renewals": 2,
+    "faculty_max_renewals": 3
+  },
+  "fine_per_day": 0.5,
+  "membership_rules": {
+    "student": "Valid student ID required",
+    "faculty": "Active staff ID required",
+    "public": "Government ID required"
+  }
+}

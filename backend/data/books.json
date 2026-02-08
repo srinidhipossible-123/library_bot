@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b1",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "genre": "Computer Science",
+    "keywords": ["algorithms", "data structures", "complexity"],
+    "summary": "Comprehensive guide to modern algorithms and analysis.",
+    "availability": 4,
+    "location": "CS-101",
+    "copies": 8,
+    "cover_url": null
+  },
+  {
+    "id": "b2",
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "genre": "Software Engineering",
+    "keywords": ["patterns", "architecture", "OO"],
+    "summary": "Classic catalog of reusable object-oriented software patterns.",
+    "availability": 2,
+    "location": "SE-202",
+    "copies": 5,
+    "cover_url": null
+  },
+  {
+    "id": "b3",
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow",
+    "genre": "AI",
+    "keywords": ["neural networks", "machine learning", "AI"],
+    "summary": "Foundational concepts and techniques in deep learning.",
+    "availability": 0,
+    "location": "AI-303",
+    "copies": 3,
+    "cover_url": null
+  }
+]
